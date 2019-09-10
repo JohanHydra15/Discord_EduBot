@@ -7,7 +7,6 @@ public class EDUMath
         String number = "";
         String roots = "";
         int counter = 0, finDegree, degree, degreeEnd = 0;
-        int testVar = 0;
          
         String replaceString = equation.replace("factor ", "");
         equation = replaceString;
